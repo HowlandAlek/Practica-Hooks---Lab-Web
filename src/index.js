@@ -6,4 +6,4 @@ import { Mensaje } from "./hooks/effect/Mensaje";
 import { Contador } from "./hooks/state/Contador";
 import { ContadorConCustomHook } from "./hooks/state/ContadorConCustomHook";
 
-ReactDOM.render(<Mensaje />, document.getElementById("root"));
+ReactDOM.render(<Formulario />, document.getElementById("root"));
